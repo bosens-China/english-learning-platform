@@ -1,0 +1,160 @@
+{
+  "lesson": "Lesson 35",
+  "title": "Where's Sally?",
+  "introduction": [
+    "Listen to the tape then answer this question. Where is Sally?",
+    "听录音，然后回答问题。萨莉在哪里？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Where's Sally?",
+      "translation": "萨莉在哪里？"
+    },
+    {
+      "text": "What's he/she/it doing?",
+      "translation": "他/她/它正在做什么？"
+    },
+    {
+      "text": "A fine day.",
+      "translation": "晴朗的一天。"
+    },
+    {
+      "text": "What are they doing?",
+      "translation": "他们在做什么？"
+    },
+    {
+      "text": "Our village.",
+      "translation": "我们的村庄。"
+    },
+    {
+      "text": "Where ...?",
+      "translation": "……在哪里？"
+    },
+    {
+      "text": "Making a bookshelf.",
+      "translation": "制作书架。"
+    },
+    {
+      "text": "What are you going to do?",
+      "translation": "你准备做什么？"
+    },
+    {
+      "text": "What are you doing now?",
+      "translation": "你现在正在做什么？"
+    },
+    {
+      "text": "Don't drop it!",
+      "translation": "别摔了！"
+    },
+    {
+      "text": "Thank you, doctor.",
+      "translation": "谢谢你，医生。"
+    },
+    {
+      "text": "Don't ... !",
+      "translation": "不要……！"
+    },
+    {
+      "text": "You mustn't ...",
+      "translation": "你不应该……"
+    },
+    {
+      "text": "Not a baby.",
+      "translation": "不是一个婴儿。"
+    },
+    {
+      "text": "What's the time?",
+      "translation": "几点钟？"
+    },
+    {
+      "text": "The weekend.",
+      "translation": "周末。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Where's Sally?",
+      "describe": "本课的主要句型是特殊疑问句，用于询问地点。"
+    },
+    {
+      "title": "Making a bookshelf.",
+      "describe": "此句说明了正在进行的活动，即制作书架。"
+    },
+    {
+      "title": "Don't drop it!",
+      "describe": "祈使句的否定形式，用来发出警告或命令。"
+    },
+    {
+      "title": "What's the time?",
+      "describe": "这是一个常用的询问时间的句型。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "where",
+      "pronunciation": "/wɛə/",
+      "type": "adv.",
+      "definition": "哪里"
+    },
+    {
+      "word": "fine",
+      "pronunciation": "/faɪn/",
+      "type": "adj.",
+      "definition": "好的，晴朗的"
+    },
+    {
+      "word": "they",
+      "pronunciation": "/ðeɪ/",
+      "type": "pron.",
+      "definition": "他们"
+    },
+    {
+      "word": "our",
+      "pronunciation": "/aʊə/",
+      "type": "possessive adjective",
+      "definition": "我们的"
+    },
+    {
+      "word": "village",
+      "pronunciation": "/'vɪlɪdʒ/",
+      "type": "n.",
+      "definition": "村庄"
+    },
+    {
+      "word": "bookshelf",
+      "pronunciation": "/'bʊkbølf/",
+      "type": "n.",
+      "definition": "书架"
+    },
+    {
+      "word": "you",
+      "pronunciation": "/juː/",
+      "type": "pron.",
+      "definition": "你，你们"
+    },
+    {
+      "word": "doctor",
+      "pronunciation": "/'dɒktə/",
+      "type": "n.",
+      "definition": "医生"
+    },
+    {
+      "word": "baby",
+      "pronunciation": "/'beɪbi/",
+      "type": "n.",
+      "definition": "婴儿"
+    },
+    {
+      "word": "time",
+      "pronunciation": "/taɪm/",
+      "type": "n.",
+      "definition": "时间"
+    },
+    {
+      "word": "weekend",
+      "pronunciation": "/'wiːkend/",
+      "type": "n.",
+      "definition": "周末"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "资源包",
+  "main": "index.js",
+  "scripts": {}
+}

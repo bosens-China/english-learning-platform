@@ -1,0 +1,62 @@
+{
+  "lesson": "Lesson 135",
+  "title": "The latest report",
+  "introduction": [
+    "Listen to the tape then answer this question. What's the exact time?",
+    "听录音，然后回答问题。确切时间是几点？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "W: One of our reporters is talking to an eyewitness who saw the crash. Hold on, please.",
+      "translation": "一位记者正在和目击者谈话，他亲眼目睹了这场事故。请稍等。"
+    },
+    {
+      "text": "M: It was 8:45... almost 9:00 in the morning.",
+      "translation": "那是早上8点45分……差不多9点了。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "The latest report",
+      "describe": "这个短语指最新的报道或新闻更新。在课文中，播音员提到他们有一个记者正在采访一个目击者，关于一场事故的最新报告即将播出。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "reporter",
+      "pronunciation": "/rɪ'pɔːtə/",
+      "type": "n.",
+      "definition": "记者"
+    },
+    {
+      "word": "eyewitness",
+      "pronunciation": "/'aɪwɪtnəs/",
+      "type": "n.",
+      "definition": "目击者"
+    },
+    {
+      "word": "crash",
+      "pronunciation": "/kræʃ/",
+      "type": "n.",
+      "definition": "撞车；事故"
+    },
+    {
+      "word": "hold on",
+      "pronunciation": "/'həʊld ɒn/",
+      "type": "v.",
+      "definition": "等待，不挂断电话"
+    },
+    {
+      "word": "almost",
+      "pronunciation": "/'ɔːlməʊst/",
+      "type": "adv.",
+      "definition": "几乎；差不多"
+    },
+    {
+      "word": "morning",
+      "pronunciation": "/'mɔːnɪŋ/",
+      "type": "n.",
+      "definition": "早晨；上午"
+    }
+  ]
+}

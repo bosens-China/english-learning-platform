@@ -1,0 +1,160 @@
+{
+  "lesson": "Lesson 33",
+  "title": "A walk through the woods",
+  "introduction": [
+    "Listen to the tape then answer this question. What did she say? She said (that)she had a walk last weekend.",
+    "听录音，然后回答问题。她说什么了？她说她上周末去散步了。"
+  ],
+  "text_and_translation": [
+    {
+      "text": "A walk through the woods",
+      "translation": "林中散步"
+    },
+    {
+      "text": "Last week I went to the theatre.",
+      "translation": "上周我去了剧院。"
+    },
+    {
+      "text": "What did you do after the play?",
+      "translation": "剧结束后你做了什么？"
+    },
+    {
+      "text": "I didn't go home. I went for a long walk in the park." ,
+      "translation": "我没回家。我在公园里散了很长时间的步。"
+    },
+    {
+      "text": "What did you do after the park?",
+      "translation": "离开公园后你又做了什么？"
+    },
+    {
+      "text": "I went down to the river and I sat down to have my picnic lunch." ,
+      "translation": "我下到河边坐下来野餐。"
+    },
+    {
+      "text": "Picnic lunch! That's interesting. Did you enjoy it?" ,
+      "translation": "野餐午餐！真有趣。你喜欢吗？"
+    },
+    {
+      "text": "Yes, I like picnics very much. They're very relaxing." ,
+      "translation": "是的，我非常喜欢野餐。它们非常放松。"
+    },
+    {
+      "text": "Where did you go for your picnic?" ,
+      "translation": "你去哪儿野餐了？"
+    },
+    {
+      "text": "I didn't go anywhere. I had my picnic in the park.",
+      "translation": "我没去任何地方。我在公园里野餐。"
+    },
+    {
+      "text": "In the park! That's funny. You had a picnic in the park before lunch and a picnic in the park after lunch!" ,
+      "translation": "在公园里！真有趣。你在午饭前在公园里野餐，午饭后又在公园里野餐！"
+    },
+    {
+      "text": "I know. It was fun. By the way, did you go to the cinema last weekend?" ,
+      "translation": "我知道。很有趣。顺便问一下，你上周末去电影院了吗？"
+    },
+    {
+      "text": "No, I usually rest at home on Sundays. I watch television or read books.",
+      "translation": "没有，我通常在周日在家休息。我看电视或阅读书籍。"
+    },
+    {
+      "text": "What do you do on Sunday evenings?" ,
+      "translation": "你周日晚上做什么？"
+    },
+    {
+      "text": "I don't go out on Sunday evenings. I enjoy staying at home. I think it's the best way to relax." ,
+      "translation": "我周日晚上不出门。我喜欢待在家里。我认为这是最好的放松方式。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "A walk through the woods",
+      "describe": "这个短语表示通过树林的一次步行，课文中描述了一个人在周末进行的各种活动，包括去剧院、散步和野餐等。"
+    },
+    {
+      "title": "Picnic lunch",
+      "describe": "野餐午餐是指在户外进行的用餐，课文中提到的人物在公园里进行了两次野餐，一次在午饭前，一次在午饭后。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "woods",
+      "pronunciation": "/wʊdz/",
+      "type": "n.",
+      "definition": "树林"
+    },
+    {
+      "word": "theatre",
+      "pronunciation": "/ˈθɪətər/",
+      "type": "n.",
+      "definition": "剧院"
+    },
+    {
+      "word": "play",
+      "pronunciation": "/pleɪ/",
+      "type": "n.",
+      "definition": "戏剧"
+    },
+    {
+      "word": "walk",
+      "pronunciation": "/wɔːk/",
+      "type": "n.",
+      "definition": "散步"
+    },
+    {
+      "word": "park",
+      "pronunciation": "/pɑːrk/",
+      "type": "n.",
+      "definition": "公园"
+    },
+    {
+      "word": "picnic",
+      "pronunciation": "/ˈpɪknɪk/",
+      "type": "n.",
+      "definition": "野餐"
+    },
+    {
+      "word": "lunch",
+      "pronunciation": "/lʌntʃ/",
+      "type": "n.",
+      "definition": "午餐"
+    },
+    {
+      "word": "relaxing",
+      "pronunciation": "/rɪˈlæksɪŋ/",
+      "type": "adj.",
+      "definition": "令人放松的"
+    },
+    {
+      "word": "river",
+      "pronunciation": "/ˈrɪvər/",
+      "type": "n.",
+      "definition": "河流"
+    },
+    {
+      "word": "funny",
+      "pronunciation": "/ˈfʌni/",
+      "type": "adj.",
+      "definition": "有趣的"
+    },
+    {
+      "word": "sunday",
+      "pronunciation": "/ˈsʌndeɪ/",
+      "type": "n.",
+      "definition": "星期日，星期天"
+    },
+    {
+      "word": "evening",
+      "pronunciation": "/ˈiːvnɪŋ/",
+      "type": "n.",
+      "definition": "傍晚，晚上"
+    },
+    {
+      "word": "stay",
+      "pronunciation": "/steɪ/",
+      "type": "v.",
+      "definition": "停留，保持"
+    }
+  ]
+}

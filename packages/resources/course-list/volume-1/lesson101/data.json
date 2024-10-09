@@ -1,0 +1,123 @@
+{
+  "lesson": "Lesson 101",
+  "title": "A card from Jimmy",
+  "introduction": [
+    "Jimmy is a young boy who studies English with his friend, Lucy. In this lesson, we learn about the past simple tense and how to use it to describe actions that have already finished. We also learn some new vocabulary related to daily activities and emotions."
+  ],
+  "text_and_translation": [
+    {
+      "text": "Dear teacher, Many thanks for the wonderful party you gave us last Friday night.",
+      "translation": "亲爱的老师，非常感谢上周五晚上您为我们举办的精彩派对。"
+    },
+    {
+      "text": "We enjoyed it very much. It was a great success.",
+      "translation": "我们非常喜欢它。它非常成功。"
+    },
+    {
+      "text": "We like your delicious dishes and drinks.",
+      "translation": "我们喜欢您的美味佳肴和饮料。"
+    },
+    {
+      "text": "We had a good time there.",
+      "translation": "我们在那里度过了愉快的时光。"
+    },
+    {
+      "text": "Thank you again! And best wishes to you.",
+      "translation": "再次感谢您！向您致以最美好的祝福。"
+    },
+    {
+      "text": "Yours sincerely, Jimmy",
+      "translation": "您真诚的，吉米"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Past Simple Tense",
+      "describe": "This tense is used to talk about actions that have already finished. It is formed by adding -ed to the end of regular verbs, or using the past form of irregular verbs."
+    },
+    {
+      "title": "Party Vocabulary",
+      "describe": "Words such as party, enjoy, success, delicious, dish, drink, and time are commonly used when talking about social gatherings and the experience of attending them."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "thanks",
+      "pronunciation": "/θæŋks/",
+      "type": "n.",
+      "definition": "感谢"
+    },
+    {
+      "word": "wonderful",
+      "pronunciation": "/'wʌndəfʊl/",
+      "type": "adj.",
+      "definition": "精彩的，极好的"
+    },
+    {
+      "word": "party",
+      "pronunciation": "/'pɑːrti/",
+      "type": "n.",
+      "definition": "聚会，派对"
+    },
+    {
+      "word": "enjoy",
+      "pronunciation": "/ɪn'dʒɔɪ/",
+      "type": "v.",
+      "definition": "享受，喜爱"
+    },
+    {
+      "word": "success",
+      "pronunciation": "/sək'ses/",
+      "type": "n.",
+      "definition": "成功"
+    },
+    {
+      "word": "delicious",
+      "pronunciation": "/dɪ'lɪʃəs/",
+      "type": "adj.",
+      "definition": "美味的，可口的"
+    },
+    {
+      "word": "dish",
+      "pronunciation": "/dɪʃ/",
+      "type": "n.",
+      "definition": "菜肴，盘子"
+    },
+    {
+      "word": "drink",
+      "pronunciation": "/drɪŋk/",
+      "type": "n.",
+      "definition": "饮料，酒"
+    },
+    {
+      "word": "time",
+      "pronunciation": "/taɪm/",
+      "type": "n.",
+      "definition": "时间，时刻"
+    },
+    {
+      "word": "again",
+      "pronunciation": "/ə'geɪn/",
+      "type": "adv.",
+      "definition": "再次，又一次"
+    },
+    {
+      "word": "best",
+      "pronunciation": "/best/",
+      "type": "adj.",
+      "definition": "最好的，最优秀的"
+    },
+    {
+      "word": "wish",
+      "pronunciation": "/wɪʃ/",
+      "type": "n.",
+      "definition": "愿望，祝愿"
+    },
+    {
+      "word": "sincerely",
+      "pronunciation": "/sɪn'sɪrəli/",
+      "type": "adv.",
+      "definition": "真诚地，诚恳地"
+    }
+  ]
+}

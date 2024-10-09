@@ -1,0 +1,90 @@
+{
+  "lesson": "Lesson 59",
+  "title": "For sale 待售",
+  "introduction": [
+    "Listen to the tape then answer this question. What's the exact time?,",
+    "听录音，然后回答问题。确切时间是几点？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Tickets, please.",
+      "translation": "请出示车票。"
+    },
+    {
+      "text": "Thank you, sir.",
+      "translation": "谢谢，先生。"
+    },
+    {
+      "text": "They are very nice. How much are they?",
+      "translation": "它们很漂亮。多少钱一双？"
+    },
+    {
+      "text": "Two pounds fifty, madam.",
+      "translation": "两英镑五十便士，夫人。"
+    },
+    {
+      "text": "Give me four, please.",
+      "translation": "请给我四双。"
+    },
+    {
+      "text": "Certainly, madam.",
+      "translation": "当然可以，夫人。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "For sale",
+      "describe": "这个短语表示物品正在被出售。在课文中，它用于指示鞋子正在出售。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ticket",
+      "pronunciation": "/'tɪkɪt/",
+      "type": "n.",
+      "definition": "票"
+    },
+    {
+      "word": "please",
+      "pronunciation": "/pliːz/",
+      "type": "int.",
+      "definition": "请"
+    },
+    {
+      "word": "they",
+      "pronunciation": "/ðeɪ/",
+      "type": "pron.",
+      "definition": "他们/它们"
+    },
+    {
+      "word": "nice",
+      "pronunciation": "/naɪs/",
+      "type": "adj.",
+      "definition": "漂亮的"
+    },
+    {
+      "word": "how much",
+      "pronunciation": "/hau mʌtʃ/",
+      "type": "question phrase",
+      "definition": "多少（用于询问价格）"
+    },
+    {
+      "word": "pound",
+      "pronunciation": "/paʊnd/",
+      "type": "n.",
+      "definition": "英镑"
+    },
+    {
+      "word": "give",
+      "pronunciation": "/ɡɪv/",
+      "type": "v.",
+      "definition": "给"
+    },
+    {
+      "word": "certainly",
+      "pronunciation": "/'sɜːtnli/",
+      "type": "adv.",
+      "definition": "当然"
+    }
+  ]
+}

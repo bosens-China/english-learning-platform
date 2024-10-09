@@ -1,0 +1,42 @@
+{
+  "lesson": "Lesson 85",
+  "title": "Paris in the spring",
+  "introduction": [
+    "Listen to the tape then answer this question. Where does this conversation take place?",
+    "听录音，然后回答问题。这段对话发生在哪里？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Paris in the spring",
+      "translation": "巴黎之春"
+    },
+    {
+      "text": "Where does this conversation take place?",
+      "translation": "这段对话发生在哪里？"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Paris",
+      "describe": "法国的首都，著名的旅游城市，以埃菲尔铁塔、卢浮宫等景点闻名。"
+    },
+    {
+      "title": "spring",
+      "describe": "春季，一年中的第一个季节，通常指3月至5月。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "Paris",
+      "pronunciation": "/'paəri/",
+      "type": "n.",
+      "definition": "巴黎"
+    },
+    {
+      "word": "spring",
+      "pronunciation": "/sprɪŋ/",
+      "type": "n.",
+      "definition": "春天"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "lesson": "Lesson 125",
+  "title": "Tea for two两个人一起喝茶",
+  "introduction": [
+    "Listen to the tape then answer this question. What's wrong with the woman?,",
+    "听录音，然后回答问题。这位女士怎么了？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Tommy: I've got a new flat." ,
+      "translation": "汤米：我有了一套新公寓。"
+    },
+    {
+      "text": "Ann: Have you, Tommy?" ,
+      "translation": "安：是吗，汤米？"
+    },
+    {
+      "text": "Tommy: Yes, it's near London. Would you like to come and see it?" ,
+      "translation": "汤米：是的，它在伦敦附近。你想来看看吗？"
+    },
+    {
+      "text": "Ann: With pleasure!" ,
+      "translation": "安：非常乐意！"
+    },
+    {
+      "text": "Tommy: It's very small, but it's nice, I think." ,
+      "translation": "汤米：它很小，但我想它很漂亮。"
+    },
+    {
+      "text": "Ann: Oh, what a lovely view! The rooms are rather small, aren't they?" ,
+      "translation": "安：哦，多美的景色啊！这些房间相当小，不是吗？"
+    },
+    {
+      "text": "Tommy: Yes, and they're dirty, too. But I'll clean them next week." ,
+      "translation": "汤米：是的，它们也很脏。但我下周会打扫干净。"
+    },
+    {
+      "text": "Ann: Let's go into the kitchen." ,
+      "translation": "安：我们去厨房吧。"
+    },
+    {
+      "text": "Tommy: Why? It's very untidy and there are no cups or teapots." ,
+      "translation": "汤米：为什么？那里很乱，也没有杯子或茶壶。"
+    },
+    {
+      "text": "Ann: Well, we can have some coffee, then." ,
+      "translation": "安：那么，我们可以喝点咖啡。"
+    },
+    {
+      "text": "Tommy: There's no coffee, I'm afraid." ,
+      "translation": "汤米：恐怕没有咖啡。"
+    },
+    {
+      "text": "Ann: Look! There's a bottle of whisky on the shelf. We can have some whisky, then." ,
+      "translation": "安：看！架子上有一瓶威士忌。那我们可以喝点威士忌。"
+    },
+    {
+      "text": "Tommy: With pleasure!" ,
+      "translation": "汤米：非常乐意！"
+    }
+  ],
+  "notes": [
+    {
+      "title": "With pleasure!",
+      "describe": "这个短语用于表示非常乐意做某事。在对话中，当安提出要来看汤米的新房时，汤米用了这个短语来表示他非常欢迎她的到来。同样，当安提议喝威士忌时，汤米再次用这个短语表达了他的乐意。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "flat",
+      "pronunciation": "/flæt/",
+      "type": "n.",
+      "definition": "公寓"
+    },
+    {
+      "word": "near",
+      "pronunciation": "/nɪə/",
+      "type": "prep.",
+      "definition": "在……附近"
+    },
+    {
+      "word": "see",
+      "pronunciation": "/siː/",
+      "type": "v.",
+      "definition": "看见"
+    },
+    {
+      "word": "small",
+      "pronunciation": "/smɔːl/",
+      "type": "adj.",
+      "definition": "小的"
+    },
+    {
+      "word": "nicer",
+      "pronunciation": "/'naɪsər/",
+      "type": "adj.",
+      "definition": "更好的"
+    },
+    {
+      "word": "lovely",
+      "pronunciation": "/'lʌvli/",
+      "type": "adj.",
+      "definition": "可爱的"
+    },
+    {
+      "word": "view",
+      "pronunciation": "/vjuː/",
+      "type": "n.",
+      "definition": "景色"
+    },
+    {
+      "word": "rather",
+      "pronunciation": "/ˈrɑːðə/",
+      "type": "adv.",
+      "definition": "相当地"
+    },
+    {
+      "word": "dirty",
+      "pronunciation": "/'dɜːti/",
+      "type": "adj.",
+      "definition": "脏的"
+    },
+    {
+      "word": "kitchen",
+      "pronunciation": "/'kɪtʃɪn/",
+      "type": "n.",
+      "definition": "厨房"
+    },
+    {
+      "word": "untidy",
+      "pronunciation": "/ʌn'taɪdi/",
+      "type": "adj.",
+      "definition": "不整洁的"
+    },
+    {
+      "word": "coffee",
+      "pronunciation": "/'kɒfi/",
+      "type": "n.",
+      "definition": "咖啡"
+    },
+    {
+      "word": "whisky",
+      "pronunciation": "/'wɪski/",
+      "type": "n.",
+      "definition": "威士忌酒"
+    }
+  ]
+}

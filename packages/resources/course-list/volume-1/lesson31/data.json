@@ -1,0 +1,74 @@
+根据提供的文档片段，Lesson 31的内容如下：
+
+```json
+{
+  "lesson": "Lesson 31",
+  "title": "Lesson 31",
+  "text_and_translation": [
+    {
+      "text": "Where's Sally?",
+      "translation": "萨莉在哪里？"
+    },
+    {
+      "text": "What's he/she/it doing?",
+      "translation": "他/她/它正在做什么？"
+    },
+    {
+      "text": "A fine day",
+      "translation": "晴朗的一天"
+    },
+    {
+      "text": "What are they doing?",
+      "translation": "他们在做什么？"
+    },
+    {
+      "text": "Our village",
+      "translation": "我们的村庄"
+    },
+    {
+      "text": "Where ..?",
+      "translation": "……在哪里？"
+    },
+    {
+      "text": "Making a bookcase",
+      "translation": "做书架"
+    },
+    {
+      "text": "What are you going to do?",
+      "translation": "你准备做什么？"
+    },
+    {
+      "text": "What are you doing now?",
+      "translation": "你现在正在做什么？"
+    },
+    {
+      "text": "Don't drop it!",
+      "translation": "别摔了！"
+    },
+    {
+      "text": "Thank you,doctor.",
+      "translation": "谢谢你，医生。"
+    },
+    {
+      "text": "Don't !",
+      "translation": "不要！"
+    },
+    {
+      "text": "You mustn't ..!",
+      "translation": "你不应该……！"
+    },
+    {
+      "text": "Not a baby",
+      "translation": "不是一个孩子"
+    },
+    {
+      "text": "What's the time?",
+      "translation": "几点钟？"
+    },
+    {
+      "text": "The weekend",
+      "translation": "周末"
+    }
+  ]
+}
+```

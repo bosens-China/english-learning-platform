@@ -1,0 +1,33 @@
+{
+  "lesson": "Lesson 117",
+  "title": "Tommy's breakfast",
+  "introduction": [
+    "Listen to the tape and answer the questions. What was Tommy doing?",
+    "听录音并回答问题。汤米在做什么？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Tommy's breakfast",
+      "translation": "汤米的早餐"
+    },
+    {
+      "text": "Listen to the tape and answer the questions. What was Tommy doing?",
+      "translation": "听录音并回答问题。汤米在做什么？"
+    }
+  ],
+  "notes": [],
+  "vocabulary": [
+    {
+      "word": "breakfast",
+      "pronunciation": "/'brekfəst/",
+      "type": "n.",
+      "definition": "早餐"
+    },
+    {
+      "word": "Tommy",
+      "pronunciation": "/'tɒmmi/",
+      "type": "n.",
+      "definition": "人名，汤米"
+    }
+  ]
+}

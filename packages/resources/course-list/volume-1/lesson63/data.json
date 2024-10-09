@@ -1,0 +1,145 @@
+{
+  "lesson": "Lesson 63",
+  "title": "What's the time? 几点钟？",
+  "introduction": [
+    "Listen to the tape and answer the questions. 听录音并回答问题。"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Do you have any...?",
+      "translation": "你有……吗？"
+    },
+    {
+      "text": "1st cheese",
+      "translation": "第一，奶酪"
+    },
+    {
+      "text": "3rd biscuits",
+      "translation": "第三，饼干"
+    },
+    {
+      "text": "2nd lettuces",
+      "translation": "第二，生菜"
+    },
+    {
+      "text": "4th chicken",
+      "translation": "第四，鸡肉"
+    },
+    {
+      "text": "6th butter",
+      "translation": "第六，黄油"
+    },
+    {
+      "text": "5th potatoes",
+      "translation": "第五，土豆"
+    },
+    {
+      "text": "7th bananas",
+      "translation": "第七，香蕉"
+    },
+    {
+      "text": "9th whisky",
+      "translation": "第九，威士忌"
+    },
+    {
+      "text": "8th potaotoes",
+      "translation": "第八，土豆"
+    },
+    {
+      "text": "10th eggs",
+      "translation": "第十，鸡蛋"
+    },
+    {
+      "text": "12th oranges",
+      "translation": "第十二，橙子"
+    },
+    {
+      "text": "11th bread",
+      "translation": "第十一，面包"
+    },
+    {
+      "text": "(13th) (14th) (15th) (16th) (17th) (18th) (19th) (20th) (21st) (22nd) (23rd) (24th) (25th) (26th) (27th) (28th) (29th) (30th) (31st) (32nd)",
+      "translation": ""
+    }
+  ],
+  "notes": [
+    {
+      "title": "Notes on the text",
+      "describe": "这课的重点是学习如何询问和回答时间相关的问题。通过一系列与杂货店购物相关的对话练习，学生可以学习到如何用英语询问物品以及价格。此外，通过听力练习，加强学生对数字和日常用词的理解和应用。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "time",
+      "pronunciation": "/taɪm/",
+      "type": "n.",
+      "definition": "时间"
+    },
+    {
+      "word": "cheese",
+      "pronunciation": "/tʃiːz/",
+      "type": "n.",
+      "definition": "奶酪"
+    },
+    {
+      "word": "biscuits",
+      "pronunciation": "/'bɪskɪts/",
+      "type": "n.",
+      "definition": "饼干"
+    },
+    {
+      "word": "lettuces",
+      "pronunciation": "/'letɪsɪz/",
+      "type": "n.",
+      "definition": "生菜"
+    },
+    {
+      "word": "chicken",
+      "pronunciation": "/'tʃɪkɪn/",
+      "type": "n.",
+      "definition": "鸡肉"
+    },
+    {
+      "word": "butter",
+      "pronunciation": "/'bʌtər/",
+      "type": "n.",
+      "definition": "黄油"
+    },
+    {
+      "word": "potatoes",
+      "pronunciation": "/pə'teɪtoʊz/",
+      "type": "n.",
+      "definition": "土豆"
+    },
+    {
+      "word": "bananas",
+      "pronunciation": "/bə'nænəz/",
+      "type": "n.",
+      "definition": "香蕉"
+    },
+    {
+      "word": "whisky",
+      "pronunciation": "/'hwɪski/",
+      "type": "n.",
+      "definition": "威士忌"
+    },
+    {
+      "word": "eggs",
+      "pronunciation": "/ɛgz/",
+      "type": "n.",
+      "definition": "鸡蛋"
+    },
+    {
+      "word": "oranges",
+      "pronunciation": "/'ɔrɪndʒɪz/",
+      "type": "n.",
+      "definition": "橙子"
+    },
+    {
+      "word": "bread",
+      "pronunciation": "/bred/",
+      "type": "n.",
+      "definition": "面包"
+    }
+  ]
+}

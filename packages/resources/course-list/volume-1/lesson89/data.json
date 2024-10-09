@@ -1,0 +1,124 @@
+{
+  "lesson": "Lesson 89",
+  "title": "For sale",
+  "introduction": [
+    "Listen to the tape then answer this question. What does Sam want to buy?",
+    "听录音，然后回答问题。Sam想买什么？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "A suite in Regent Street",
+      "translation": "里根特街的一套公寓"
+    },
+    {
+      "text": "All the furniture",
+      "translation": "所有家具"
+    },
+    {
+      "text": "£150,000",
+      "translation": "150,000英镑"
+    },
+    {
+      "text": "Can I have your name and address, please?",
+      "translation": "请问您的姓名和地址是？"
+    },
+    {
+      "text": "Here is my card",
+      "translation": "这是我的名片"
+    },
+    {
+      "text": "I'll phone my lawyer",
+      "translation": "我会打电话给我的律师"
+    },
+    {
+      "text": "I'm afraid that the owner wants £20,000 more than your top price",
+      "translation": "恐怕房主的要价比您的最高出价还要高出20,000英镑"
+    }
+  ],
+  "notes": [
+    {
+      "title": "For sale",
+      "describe": "表示某物正在出售，通常用于房地产、车辆等广告中。"
+    },
+    {
+      "title": "Regents Street",
+      "describe": "伦敦的一个著名购物街，以高端品牌店和豪华建筑著称。"
+    },
+    {
+      "title": "£150,000",
+      "describe": "英国货币单位，代表150,000英镑。"
+    },
+    {
+      "title": "top price",
+      "describe": "愿意支付的最高价格。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "suite",
+      "pronunciation": "/swiːt/",
+      "type": "n.",
+      "definition": "套房，一套家具"
+    },
+    {
+      "word": "furniture",
+      "pronunciation": "/'fɜːnɪtʃə/",
+      "type": "n.",
+      "definition": "家具"
+    },
+    {
+      "word": "£",
+      "pronunciation": "/lib/",
+      "type": "symbol",
+      "definition": "英镑的符号"
+    },
+    {
+      "word": "address",
+      "pronunciation": "/ə'dres/",
+      "type": "n.",
+      "definition": "地址"
+    },
+    {
+      "word": "card",
+      "pronunciation": "/kɑːd/",
+      "type": "n.",
+      "definition": "卡片"
+    },
+    {
+      "word": "phone",
+      "pronunciation": "/fəʊn/",
+      "type": "v.",
+      "definition": "打电话"
+    },
+    {
+      "word": "lawyer",
+      "pronunciation": "/'lɔːjə/",
+      "type": "n.",
+      "definition": "律师"
+    },
+    {
+      "word": "afraid",
+      "pronunciation": "/ə'freɪd/",
+      "type": "adj.",
+      "definition": "恐怕，担心"
+    },
+    {
+      "word": "owner",
+      "pronunciation": "/'əʊnə/",
+      "type": "n.",
+      "definition": "所有者，房主"
+    },
+    {
+      "word": "top",
+      "pronunciation": "/tɒp/",
+      "type": "adj.",
+      "definition": "最高的"
+    },
+    {
+      "word": "price",
+      "pronunciation": "/praɪs/",
+      "type": "n.",
+      "definition": "价格"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "lesson": "Lesson 91",
+  "title": "Poor Ian! 可怜的伊恩！",
+  "introduction": [
+    "Listen to the tape then answer this question. What's the matter with Ian?",
+    "听录音，然后回答问题。伊恩怎么了？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Poor Ian!",
+      "translation": "可怜的伊恩！"
+    },
+    {
+      "text": "What's the matter with Ian?",
+      "translation": "伊恩怎么了？"
+    },
+    {
+      "text": "Ian has a bad cold.",
+      "translation": "伊恩得了重感冒。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Poor Ian!",
+      "describe": "表示对伊恩的同情和关心。"
+    },
+    {
+      "title": "What's the matter with Ian?",
+      "describe": "询问伊恩的状况或问题所在。"
+    },
+    {
+      "title": "Ian has a bad cold.",
+      "describe": "说明伊恩生病的原因，即他患了重感冒。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "poor",
+      "pronunciation": "/pɔːr/",
+      "type": "adj.",
+      "definition": "可怜的"
+    },
+    {
+      "word": "Ian",
+      "pronunciation": "/iən/",
+      "type": "n.",
+      "definition": "人名"
+    },
+    {
+      "word": "matter",
+      "pronunciation": "/'mætər/",
+      "type": "n.",
+      "definition": "事情；问题"
+    },
+    {
+      "word": "with",
+      "pronunciation": "/wɪð/",
+      "type": "prep.",
+      "definition": "与…有关"
+    },
+    {
+      "word": "bad",
+      "pronunciation": "/bæd/",
+      "type": "adj.",
+      "definition": "坏的；严重的"
+    },
+    {
+      "word": "cold",
+      "pronunciation": "/koʊld/",
+      "type": "n.",
+      "definition": "感冒"
+    }
+  ]
+}

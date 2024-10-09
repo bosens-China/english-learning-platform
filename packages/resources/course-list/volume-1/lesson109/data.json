@@ -1,0 +1,142 @@
+{
+  "lesson": "Lesson 109",
+  "title": "A good idea 好主意",
+  "introduction": [
+    "Listen and read.",
+    "听录音并跟读。"
+  ],
+  "text_and_translation": [
+    {
+      "text": "How do they compare?",
+      "translation": "它们如何比较？"
+    },
+    {
+      "text": "They're both the same weight.",
+      "translation": "它们的重量完全相同。"
+    },
+    {
+      "text": "This one is heavier.",
+      "translation": "这个更重一些。"
+    },
+    {
+      "text": "That one is lighter.",
+      "translation": "那个更轻一些。"
+    },
+    {
+      "text": "It's much shorter than the other two.",
+      "translation": "它比其他两个短得多。"
+    },
+    {
+      "text": "It's a little longer than this one.",
+      "translation": "它比这个稍微长一点。"
+    },
+    {
+      "text": "It's the longest of the three.",
+      "translation": "它是三个中最长的。"
+    },
+    {
+      "text": "It's the shortest of the three.",
+      "translation": "它是三个中最短的。"
+    },
+    {
+      "text": "It isn't as long as the blue one.",
+      "translation": "它没有蓝色的那个长。"
+    },
+    {
+      "text": "Is it as long as the red one?",
+      "translation": "它和红色的那个一样长吗？"
+    },
+    {
+      "text": "Which is the largest?",
+      "translation": "哪一个是最大的？"
+    },
+    {
+      "text": "The yellow one is the largest.",
+      "translation": "黄色的那个是最大的。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Comparing size, quantity, and degree",
+      "describe": "本课主要讲解了如何用英语比较物品的大小、数量和程度，通过形容词的比较级和最高级形式来进行描述。"
+    },
+    {
+      "title": "Adjective comparisons",
+      "describe": "介绍了形容词比较级（如：longer, shorter）和最高级（如：longest, shortest）的构成和用法，以及如何使用as...as...结构来表达等同关系。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "compare",
+      "pronunciation": "/kəm'peə/",
+      "type": "v.",
+      "definition": "比较"
+    },
+    {
+      "word": "weight",
+      "pronunciation": "/weɪt/",
+      "type": "n.",
+      "definition": "重量"
+    },
+    {
+      "word": "heavier",
+      "pronunciation": "/ˈhɛvɪər/",
+      "type": "adj.",
+      "definition": "更重的"
+    },
+    {
+      "word": "lighter",
+      "pronunciation": "/ˈlaɪtər/",
+      "type": "adj.",
+      "definition": "更轻的"
+    },
+    {
+      "word": "shorter",
+      "pronunciation": "/ˈʃɔrtər/",
+      "type": "adj.",
+      "definition": "更短的"
+    },
+    {
+      "word": "longer",
+      "pronunciation": "/ˈlɔŋɡər/",
+      "type": "adj.",
+      "definition": "更长的"
+    },
+    {
+      "word": "longest",
+      "pronunciation": "/ˈlɔŋɡɪst/",
+      "type": "adj.",
+      "definition": "最长的"
+    },
+    {
+      "word": "shortest",
+      "pronunciation": "/ˈʃɔrtɪst/",
+      "type": "adj.",
+      "definition": "最短的"
+    },
+    {
+      "word": "blue",
+      "pronunciation": "/bluː/",
+      "type": "n./adj.",
+      "definition": "蓝色"
+    },
+    {
+      "word": "red",
+      "pronunciation": "/rɛd/",
+      "type": "n./adj.",
+      "definition": "红色"
+    },
+    {
+      "word": "yellow",
+      "pronunciation": "/ˈjɛloʊ/",
+      "type": "n./adj.",
+      "definition": "黄色"
+    },
+    {
+      "word": "largest",
+      "pronunciation": "/ˈlɑrʤɪst/",
+      "type": "adj.",
+      "definition": "最大的"
+    }
+  ]
+}

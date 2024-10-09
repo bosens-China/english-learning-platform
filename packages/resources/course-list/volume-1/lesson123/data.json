@@ -1,0 +1,74 @@
+```json
+{
+  "lesson": "Lesson 123",
+  "title": "A trip to Australia",
+  "introduction": [
+    "Listen to the tape then answer this question. Who is the first to arrive at the beach?",
+    "听录音，然后回答问题。谁最先到达了海滩？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "A trip to Australia",
+      "translation": "澳大利亚之行"
+    },
+    {
+      "text": "The first to arrive...",
+      "translation": "第一个到达的……"
+    }
+  ],
+  "notes": [
+    {
+      "title": "A trip to Australia",
+      "describe": "课文讲述了作者去澳大利亚旅行的经历，包括出发、旅途以及到达后的一些活动和见闻。"
+    },
+    {
+      "title": "The first to arrive...",
+      "describe": "这个短语表示在一组人中，有人是最先达到某个地点或完成某项任务的人。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "trip",
+      "pronunciation": "/trɪp/",
+      "type": "n.",
+      "definition": "旅行"
+    },
+    {
+      "word": "Australia",
+      "pronunciation": "/ɒ'streɪlɪə/",
+      "type": "n.",
+      "definition": "澳大利亚"
+    },
+    {
+      "word": "arrive",
+      "pronunciation": "/ə'raɪv/",
+      "type": "v.",
+      "definition": "到达"
+    },
+    {
+      "word": "first",
+      "pronunciation": "/fɜːst/",
+      "type": "adv.",
+      "definition": "首先，第一"
+    },
+    {
+      "word": "to",
+      "pronunciation": "/toʊ/",
+      "type": "prep.",
+      "definition": "向，到"
+    },
+    {
+      "word": "at",
+      "pronunciation": "/æt/",
+      "type": "prep.",
+      "definition": "在（某地）"
+    },
+    {
+      "word": "beach",
+      "pronunciation": "/biːtʃ/",
+      "type": "n.",
+      "definition": "海滩"
+    }
+  ]
+}
+```

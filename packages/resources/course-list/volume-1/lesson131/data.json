@@ -1,0 +1,122 @@
+{
+  "lesson": "Lesson 131",
+  "title": "Sensational news! 爆炸性新闻！",
+  "introduction": [
+    "Listen to the tape then answer this question.What did the writer think of the story?,",
+    "听录音，然后回答问题。作者对这个故事怎么看？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "The latest report",
+      "translation": "最新消息"
+    },
+    {
+      "text": "Sensational news! 爆炸性新闻！",
+      "translation": ""
+    },
+    {
+      "text": "A child has been kidnapped in the city centre.",
+      "translation": "一个孩子在市中心被绑架了。"
+    },
+    {
+      "text": "Police have been searching the area.",
+      "translation": "警方一直在搜查这个地区。"
+    },
+    {
+      "text": "They are still looking for the child.",
+      "translation": "他们仍在寻找那个孩子。"
+    },
+    {
+      "text": "A woman has been arrested.",
+      "translation": "一名妇女已被逮捕。"
+    },
+    {
+      "text": "She is being questioned by the police.",
+      "translation": "她正在接受警方的审问。"
+    },
+    {
+      "text": "We will bring you more information as soon as it comes in.",
+      "translation": "一有新消息，我们就会立即向你报道。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Sensational news",
+      "describe": "这个词组表示引起广泛关注或轰动的新闻，通常涉及意外、丑闻或重大事件。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "sensational",
+      "pronunciation": "/sen'seɪʃənəl/",
+      "type": "adj.",
+      "definition": "引起轰动的"
+    },
+    {
+      "word": "kidnap",
+      "pronunciation": "/'kɪdnæp/",
+      "type": "v.",
+      "definition": "绑架"
+    },
+    {
+      "word": "search",
+      "pronunciation": "/sɜːtʃ/",
+      "type": "v.",
+      "definition": "搜查"
+    },
+    {
+      "word": "area",
+      "pronunciation": "/'eəriə/",
+      "type": "n.",
+      "definition": "地区"
+    },
+    {
+      "word": "police",
+      "pronunciation": "/pə'liːs/",
+      "type": "n.",
+      "definition": "警察"
+    },
+    {
+      "word": "arrest",
+      "pronunciation": "/ə'rest/",
+      "type": "v.",
+      "definition": "逮捕"
+    },
+    {
+      "word": "woman",
+      "pronunciation": "/'wʊmən/",
+      "type": "n.",
+      "definition": "女人，妇女"
+    },
+    {
+      "word": "question",
+      "pronunciation": "/'kwes�tʃən/",
+      "type": "v.",
+      "definition": "询问，审问"
+    },
+    {
+      "word": "bring",
+      "pronunciation": "/brɪŋ/",
+      "type": "v.",
+      "definition": "带来，提供"
+    },
+    {
+      "word": "information",
+      "pronunciation": "/ˌɪnfər'meɪʃn/",
+      "type": "n.",
+      "definition": "信息"
+    },
+    {
+      "word": "soon",
+      "pronunciation": "/suːn/",
+      "type": "adv.",
+      "definition": "很快"
+    },
+    {
+      "word": "come in",
+      "pronunciation": "/'kʌm ɪn/",
+      "type": "phr. v.",
+      "definition": "到达，进来"
+    }
+  ]
+}

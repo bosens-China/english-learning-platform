@@ -1,0 +1,106 @@
+{
+  "lesson": "Lesson 133",
+  "title": "Sensational news! 爆炸性新闻！",
+  "introduction": [
+    "Listen to the tape then answer this question.What did he say? What did he tell you?",
+    "听录音，然后回答问题。他说了什么？他告诉了你什么？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "They told me (that) they wanted their dinner.",
+      "translation": "他们告诉我他们想要晚餐。"
+    },
+    {
+      "text": "I've finished my homework.",
+      "translation": "我已完成了我的家庭作业。"
+    },
+    {
+      "text": "He said (that)he had finished his homework.",
+      "translation": "他说他已完成了他的家庭作业。"
+    },
+    {
+      "text": "He told me (that)he had finished his homework.",
+      "translation": "他告诉我他已完成了他的家庭作业。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Sensational news",
+      "describe": "这个短语用于描述非常令人惊讶或引起广泛关注的新闻。在课文中，这可能意味着某个事件或情况引起了公众的极大兴趣。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "sensational",
+      "pronunciation": "/sen'seɪʃənəl/",
+      "type": "adj.",
+      "definition": "轰动的，耸人听闻的"
+    },
+    {
+      "word": "news",
+      "pronunciation": "/njuːz/",
+      "type": "n.",
+      "definition": "消息，新闻"
+    },
+    {
+      "word": "they",
+      "pronunciation": "/ðeɪ/",
+      "type": "pron.",
+      "definition": "他们"
+    },
+    {
+      "word": "told",
+      "pronunciation": "/təʊld/",
+      "type": "v.",
+      "definition": "告诉(tell的过去式和过去分词)"
+    },
+    {
+      "word": "want",
+      "pronunciation": "/wɒnt/",
+      "type": "v.",
+      "definition": "想要"
+    },
+    {
+      "word": "dinner",
+      "pronunciation": "/'dɪnə(r)/",
+      "type": "n.",
+      "definition": "晚餐"
+    },
+    {
+      "word": "homework",
+      "pronunciation": "/'həʊmwɜːk/",
+      "type": "n.",
+      "definition": "家庭作业"
+    },
+    {
+      "word": "finished",
+      "pronunciation": "/'fɪnɪʃt/",
+      "type": "v.",
+      "definition": "完成(finish的过去式和过去分词)"
+    },
+    {
+      "word": "said",
+      "pronunciation": "/sed/",
+      "type": "v.",
+      "definition": "说(say的过去式和过去分词)"
+    },
+    {
+      "word": "had",
+      "pronunciation": "/hæd/",
+      "type": "aux.",
+      "definition": "有(have的过去式)"
+    },
+    {
+      "word": "me",
+      "pronunciation": "/miː/",
+      "type": "pron.",
+      "definition": "我(宾格)"
+    },
+    {
+      "word": "he",
+      "pronunciation": "/hiː/",
+      "type": "pron.",
+      "definition": "他"
+    }
+  ]
+}

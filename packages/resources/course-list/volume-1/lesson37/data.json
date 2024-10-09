@@ -1,0 +1,94 @@
+```json
+{
+  "lesson": "Lesson 37",
+  "title": "For sale 待售",
+  "introduction": [
+    "Listen to the tape then answer this question. What does the woman want?",
+    "听录音，然后回答问题。这位女士想要什么？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "CAROL: Look, Sally. Those shoes are very nice.",
+      "translation": "卡罗尔：看，萨莉。那些鞋子很漂亮。"
+    },
+    {
+      "text": "They are for sale.",
+      "translation": "它们是待售的。"
+    },
+    {
+      "text": "SALLY: Yes, they are.",
+      "translation": "萨莉：是的，它们是。"
+    },
+    {
+      "text": "CAROL: How much are they?",
+      "translation": "卡罗尔：它们多少钱？"
+    },
+    {
+      "text": "SALLY: They're very expensive...",
+      "translation": "萨莉：它们非常贵……"
+    },
+    {
+      "text": "CAROL: I know! But they're very nice, so maybe it's OK.",
+      "translation": "卡罗尔：我知道！但它们很漂亮，所以也许没关系。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "For sale",
+      "describe": "表示物品正在出售，可用在私人出售或商店销售的场合。"
+    },
+    {
+      "title": "How much are they?",
+      "describe": "询问价格的常用语，用于询问物品的成本或售价。"
+    },
+    {
+      "title": "They're very expensive...",
+      "describe": "表示物品的价格很高，可能超出了购买者的预算或期望。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "sale",
+      "pronunciation": "/seɪl/",
+      "type": "n.",
+      "definition": "销售，出售"
+    },
+    {
+      "word": "shoes",
+      "pronunciation": "/ʃuːz/",
+      "type": "n. pl.",
+      "definition": "鞋子"
+    },
+    {
+      "word": "expensive",
+      "pronunciation": "/ɪkˈspensɪv/",
+      "type": "adj.",
+      "definition": "昂贵的"
+    },
+    {
+      "word": "very",
+      "pronunciation": "/ˈveri/",
+      "type": "adv.",
+      "definition": "很，非常"
+    },
+    {
+      "word": "nice",
+      "pronunciation": "/naɪs/",
+      "type": "adj.",
+      "definition": "漂亮的，令人愉快的"
+    },
+    {
+      "word": "maybe",
+      "pronunciation": "/ˈmeɪbi/",
+      "type": "adv.",
+      "definition": "或许，可能"
+    },
+    {
+      "word": "OK",
+      "pronunciation": "/ˌəʊˈkeɪ/",
+      "type": "adj.",
+      "definition": "好的，没问题的"
+    }
+  ]
+}
+```

@@ -1,0 +1,52 @@
+{
+  "lesson": "Lesson 47",
+  "title": "Don't...! 不要……！",
+  "introduction": [
+    "Listen to the tape then answer this question. What does the woman tell the children not to do?",
+    "听录音，然后回答问题。女士告诉孩子们不要做什么？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Don't...",
+      "translation": "不要……！"
+    },
+    {
+      "text": "...!",
+      "translation": ""
+    },
+    {
+      "text": "Children, don't...",
+      "translation": "孩子们，不要……！"
+    },
+    {
+      "text": "...!",
+      "translation ""
+    }
+  ],
+  "notes": [
+    {
+      "title": "Don't...",
+      "describe": "这个结构用于发出命令或请求，表示禁止做某事。在课文中，女士用它来告诉孩子们不要做危险的事情。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "don't",
+      "pronunciation": "/doʊnt/",
+      "type": "v.",
+      "definition": "do not的缩写形式，用于否定句"
+    },
+    {
+      "word": "children",
+      "pronunciation": "/ˈtʃɪldrən/",
+      "type": "n.",
+      "definition": "儿童"
+    },
+    {
+      "word": "dangerous",
+      "pronunciation": "/ˈdeɪndʒərəs/",
+      "type": "adj.",
+      "definition": "危险的"
+    }
+  ]
+}

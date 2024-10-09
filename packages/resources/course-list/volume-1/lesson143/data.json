@@ -1,0 +1,118 @@
+{
+  "lesson": "Lesson 143",
+  "title": "A walk through the woods",
+  "introduction": [
+    "Listen to the tape then answer this question: Where does the writer live?",
+    "听录音，然后回答问题：作者住在哪里？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "A walk through the woods",
+      "translation": "林中散步"
+    },
+    {
+      "text": "Listen to the tape then answer this question. Whose handbag is it?",
+      "translation": "听录音，然后回答问题。这是谁的手袋？"
+    },
+    {
+      "text": "Excuse me!",
+      "translation": "对不起！"
+    },
+    {
+      "text": "Yes?",
+      "translation": "什么事？"
+    },
+    {
+      "text": "Is this your handbag?",
+      "translation": "这是您的手提包吗？"
+    },
+    {
+      "text": "Pardon?",
+      "translation": "请再说一遍？"
+    },
+    {
+      "text": "Is this your handbag?",
+      "translation": "这是您的手提包吗？"
+    },
+    {
+      "text": "Yes, it is.",
+      "translation": "是的，是我的。"
+    },
+    {
+      "text": "Thank you very much.",
+      "translation": "非常感谢。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Through the woods",
+      "describe": "这个短语意味着穿过树林。在课文中，它描述了一次宁静的林中散步。"
+    },
+    {
+      "title": "Pardon?",
+      "describe": "全句为I beg your pardon.意思是请求对方把刚才讲过的话重复一遍。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "excuse",
+      "pronunciation": "/ɪk'skjuːz/",
+      "type": "v.",
+      "definition": "原谅"
+    },
+    {
+      "word": "handbag",
+      "pronunciation": "/'hændbæg/",
+      "type": "n.",
+      "definition": "(女用)手提包"
+    },
+    {
+      "word": "me",
+      "pronunciation": "/miː/",
+      "type": "pron.",
+      "definition": "我(宾格)"
+    },
+    {
+      "word": "pardon",
+      "pronunciation": "/'pɑːdn/",
+      "type": "int.",
+      "definition": "原谅，请再说一遍"
+    },
+    {
+      "word": "yes",
+      "pronunciation": "/jɛs/",
+      "type": "adv.",
+      "definition": "是的"
+    },
+    {
+      "word": "it",
+      "pronunciation": "/ɪt/",
+      "type": "pron.",
+      "definition": "它"
+    },
+    {
+      "word": "is",
+      "pronunciation": "/ɪz/",
+      "type": "v.",
+      "definition": "be动词现在时第三人称单数"
+    },
+    {
+      "word": "thank",
+      "pronunciation": "/θæŋk/",
+      "type": "v.",
+      "definition": "感谢"
+    },
+    {
+      "word": "very much",
+      "pronunciation": "/'veri mʌtʃ/",
+      "type": "adv.",
+      "definition": "非常地"
+    },
+    {
+      "word": "your",
+      "pronunciation": "/jɔː/",
+      "type": "possessive adjective",
+      "definition": "你的，你们的"
+    }
+  ]
+}

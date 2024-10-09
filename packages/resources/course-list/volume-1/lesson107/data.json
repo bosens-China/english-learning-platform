@@ -1,0 +1,112 @@
+{
+  "lesson": "Lesson 107",
+  "title": "It's too small.",
+  "introduction": [
+    "Listen and repeat the following sentences. Pay attention to the intonation.",
+    "听录音并跟读以下句子。注意语调。"
+  ],
+  "text_and_translation": [
+    {
+      "text": "It's too small.",
+      "translation": "它太小了。"
+    },
+    {
+      "text": "Give me a bigger one, please.",
+      "translation": "请给我一个大一点的。"
+    },
+    {
+      "text": "Which one do you want? The red one or the green one?",
+      "translation": "你想要哪一个？红色的还是绿色的？"
+    },
+    {
+      "text": "The red one, please.",
+      "translation": "请给我红色的那个。"
+    },
+    {
+      "text": "Here you are.",
+      "translation": "给你。"
+    },
+    {
+      "text": "Thank you very much.",
+      "translation": "非常感谢。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Too",
+      "describe": "在英语中，too通常用于表示“太……”，表达一种超越期望或需求的程度。在本课中，too用来表达某物的尺寸超过了说话者的期望。"
+    },
+    {
+      "title": "The red one or the green one?",
+      "describe": "这是一个选择疑问句，用于询问对方在两个或多个选项中做出选择。在此句中，提问者想知道对方想要红色的还是绿色的。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "small",
+      "pronunciation": "/smɔːl/",
+      "type": "adj.",
+      "definition": "小的"
+    },
+    {
+      "word": "bigger",
+      "pronunciation": "/'bɪgər/",
+      "type": "adj.",
+      "definition": "更大的"
+    },
+    {
+      "word": "one",
+      "pronunciation": "/wʌn/",
+      "type": "num.",
+      "definition": "一"
+    },
+    {
+      "word": "please",
+      "pronunciation": "/pliːz/",
+      "type": "int.",
+      "definition": "请"
+    },
+    {
+      "word": "red",
+      "pronunciation": "/red/",
+      "type": "adj.",
+      "definition": "红色的"
+    },
+    {
+      "word": "green",
+      "pronunciation": "/griːn/",
+      "type": "adj.",
+      "definition": "绿色的"
+    },
+    {
+      "word": "here",
+      "pronunciation": "/hɪər/",
+      "type": "adv.",
+      "definition": "这里"
+    },
+    {
+      "word": "you",
+      "pronunciation": "/juː/",
+      "type": "pron.",
+      "definition": "你，你们"
+    },
+    {
+      "word": "are",
+      "pronunciation": "/ɑːr/",
+      "type": "v.",
+      "definition": "be动词现在时第二人称单数和复数"
+    },
+    {
+      "word": "thank",
+      "pronunciation": "/θæŋk/",
+      "type": "v.",
+      "definition": "感谢"
+    },
+    {
+      "word": "very much",
+      "pronunciation": "/'veri mʌtʃ/",
+      "type": "adv.",
+      "definition": "非常地"
+    }
+  ]
+}

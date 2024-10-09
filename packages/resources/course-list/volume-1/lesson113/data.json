@@ -1,0 +1,76 @@
+{
+  "lesson": "Lesson 113",
+  "title": "Small changes 零钱",
+  "introduction": [
+    "Listen and read.",
+    "听录音并跟读。"
+  ],
+  "text_and_translation": [
+    {
+      "text": "I've got none.",
+      "translation": "我没有。"
+    },
+    {
+      "text": "None of your business!",
+      "translation": "不关你的事！"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Small changes",
+      "describe": "这个短语指的是小面额的硬币或纸币，通常用于找零或给小费。在课文中，女士回答关于她是否有零钱的问题时使用了这个短语。"
+    },
+    {
+      "title": "I've got none.",
+      "describe": "这句话的意思是“我一个也没有。”在课文中，女士用它来回答关于她是否有某种东西的问题。"
+    },
+    {
+      "title": "None of your business!",
+      "describe": "这是一种粗鲁的说法，意思是“不关你的事！”在课文中，当某人问了一个不礼貌或不合适的问题时，女士用了这个短语作为回答。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "small",
+      "pronunciation": "/smɔːl/",
+      "type": "adj.",
+      "definition": "小的"
+    },
+    {
+      "word": "changes",
+      "pronunciation": "/tʃeɪndʒɪz/",
+      "type": "n.",
+      "definition": "零钱"
+    },
+    {
+      "word": "got",
+      "pronunciation": "/gɒt/",
+      "type": "v.",
+      "definition": "得到(get的过去式和过去分词)"
+    },
+    {
+      "word": "none",
+      "pronunciation": "/nʌn/",
+      "type": "pron.",
+      "definition": "没有任何人或物"
+    },
+    {
+      "word": "of",
+      "pronunciation": "/ɒv/",
+      "type": "prep.",
+      "definition": "表示属于、来自或与某事物有关"
+    },
+    {
+      "word": "your",
+      "pronunciation": "/jɔːr/",
+      "type": "possessive adjective",
+      "definition": "你的，你们的"
+    },
+    {
+      "word": "business",
+      "pronunciation": "/'bɪznəs/",
+      "type": "n.",
+      "definition": "事务，生意"
+    }
+  ]
+}

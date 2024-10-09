@@ -1,0 +1,90 @@
+{
+  "lesson": "Lesson 55",
+  "title": "Don't drop it! 别摔了！",
+  "introduction": [
+    "Listen to the tape then answer this question. Who is 'they' referring to?",
+    "听录音，然后回答问题。‘他们’是指谁？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Thank you, doctor.",
+      "translation": "谢谢你，医生。"
+    },
+    {
+      "text": "Don't ...!",
+      "translation": "不要……！"
+    },
+    {
+      "text": "You mustn't ...! 那不是给孩子的。",
+      "translation": "你不能……！ 那不是给孩子的。"
+    },
+    {
+      "text": "What's the time? 几点钟？",
+      "translation": "现在几点了？"
+    },
+    {
+      "text": "The weekend 周末",
+      "translation": "周末"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Thank you, doctor.",
+      "describe": "表示感谢的常用表达方式。在这个上下文中，可能是用来对医生的诊治或建议表示感激。"
+    },
+    {
+      "title": "Don't ...!",
+      "describe": "一种警告或禁止某人做某事的表达方式。具体行动没有在句子中明确指出。"
+    },
+    {
+      "title": "You mustn't ...! 那不是给孩子的。",
+      "describe": "mustn't 是 must not 的缩写形式，意为“不允许”或“不应该”。这句话用于强调某物不适合或不应该给儿童。"
+    },
+    {
+      "title": "What's the time?",
+      "describe": "询问当前时间的常见方式。"
+    },
+    {
+      "title": "The weekend",
+      "describe": "指一周中的最后两天，通常是周六和周日，用于休息和放松的时间。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "thank",
+      "pronunciation": "/θæŋk/",
+      "type": "v.",
+      "definition": "感谢"
+    },
+    {
+      "word": "doctor",
+      "pronunciation": "/'dɒktər/",
+      "type": "n.",
+      "definition": "医生"
+    },
+    {
+      "word": "mustn't",
+      "pronunciation": "/'mʌsnt/",
+      "type": "v.",
+      "definition": "不允许；不应该"
+    },
+    {
+      "word": "child",
+      "pronunciation": "/'tʃaɪld/",
+      "type": "n.",
+      "definition": "孩子"
+    },
+    {
+      "word": "time",
+      "pronunciation": "/taɪm/",
+      "type": "n.",
+      "definition": "时间"
+    },
+    {
+      "word": "weekend",
+      "pronunciation": "/'wiːkend/",
+      "type": "n.",
+      "definition": "周末"
+    }
+  ]
+}

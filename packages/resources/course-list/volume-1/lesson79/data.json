@@ -1,0 +1,50 @@
+{
+  "lesson": "Lesson 79",
+  "title": "Carol's shopping list 卡罗尔的购物单",
+  "introduction": [
+    "Listen to the tape then answer this question. What does Carol want to buy?,",
+    "听录音，然后回答问题。卡罗尔想买什么？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "I must go to the... 我必须去……",
+      "translation": "我必须去……"
+    },
+    {
+      "text": "The weekend 周末",
+      "translation": "周末"
+    }
+  ],
+  "notes": [
+    {
+      "title": "The weekend",
+      "describe": "指周六和周日两天时间，通常用来描述在这段时间内发生的事情或计划。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "must",
+      "pronunciation": "/mʌst/",
+      "type": "v.",
+      "definition": "必须"
+    },
+    {
+      "word": "go",
+      "pronunciation": "/ɡəʊ/",
+      "type": "v.",
+      "definition": "去"
+    },
+    {
+      "word": "the",
+      "pronunciation": "/ðə/",
+      "type": "det.",
+      "definition": "定冠词，用于特指"
+    },
+    {
+      "word": "weekend",
+      "pronunciation": "/'wiːkɛnd/",
+      "type": "n.",
+      "definition": "周末"
+    }
+  ]
+}

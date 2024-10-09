@@ -1,0 +1,232 @@
+{
+  "lesson": "Lesson 87",
+  "title": "A car crash",
+  "introduction": [
+    "Listen to the tape then answer this question. What happened?,",
+    "听录音，然后回答问题。发生了什么事？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "A car crash",
+      "translation": "汽车事故"
+    },
+    {
+      "text": "What happened?",
+      "translation": "发生什么事了？"
+    },
+    {
+      "text": "There was a terrible accident this morning on Broad Street. A car hit a bus at ten o'clock. The car driver was badly injured but no one else was hurt. The police are looking for two men who ran away. They think these men were in the car when it hit the bus.",
+      "translation": "今天早上在宽街发生了一起严重的车祸。10点钟时一辆汽车撞上了公交车。汽车司机受了重伤，但其他人没有受伤。警察正在寻找两名逃跑的男子。他们认为这两人是在汽车撞击公交车时在车上的。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "A car crash",
+      "describe": "课文描述了一起发生在宽街的严重车祸事件，涉及到一名严重受伤的汽车司机和两名逃离现场的男子。"
+    },
+    {
+      "title": "The police are looking for two men",
+      "describe": "说明警方正在进行调查，并寻找两名可能与事故有关的男子。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "crash",
+      "pronunciation": "/kræʃ/",
+      "type": "n.",
+      "definition": "碰撞，坠毁"
+    },
+    {
+      "word": "terrible",
+      "pronunciation": "/ˈterəbəl/",
+      "type": "adj.",
+      "definition": "可怕的，严重的"
+    },
+    {
+      "word": "accident",
+      "pronunciation": "/ˈæksɪdənt/",
+      "type": "n.",
+      "definition": "意外事故"
+    },
+    {
+      "word": "this",
+      "pronunciation": "/ðɪs/",
+      "type": "pron.",
+      "definition": "这个"
+    },
+    {
+      "word": "morning",
+      "pronunciation": "/ˈmɔːrnɪŋ/",
+      "type": "n.",
+      "definition": "早晨"
+    },
+    {
+      "word": "Broad",
+      "pronunciation": "/brɔːd/",
+      "type": "adj.",
+      "definition": "宽阔的"
+    },
+    {
+      "word": "Street",
+      "pronunciation": "/striːt/",
+      "type": "n.",
+      "definition": "街道"
+    },
+    {
+      "word": "car",
+      "pronunciation": "/kɑː/",
+      "type": "n.",
+      "definition": "汽车"
+    },
+    {
+      "word": "bus",
+      "pronunciation": "/bʌs/",
+      "type": "n.",
+      "definition": "公共汽车"
+    },
+    {
+      "word": "at",
+      "pronunciation": "/æt/",
+      "type": "prep.",
+      "definition": "在(表示时间)"
+    },
+    {
+      "word": "o'clock",
+      "pronunciation": "/əˈklɒk/",
+      "type": "adv.",
+      "definition": "点钟"
+    },
+    {
+      "word": "driver",
+      "pronunciation": "/ˈdraɪvə/",
+      "type": "n.",
+      "definition": "司机"
+    },
+    {
+      "word": "badly",
+      "pronunciation": "/ˈbædəli/",
+      "type": "adv.",
+      "definition": "严重地"
+    },
+    {
+      "word": "injured",
+      "pronunciation": "/ˈɪndʒərd/",
+      "type": "adj.",
+      "definition": "受伤的"
+    },
+    {
+      "word": "but",
+      "pronunciation": "/bʌt/",
+      "type": "conj.",
+      "definition": "但是"
+    },
+    {
+      "word": "else",
+      "pronunciation": "/els/",
+      "type": "adv.",
+      "definition": "其他的人或物"
+    },
+    {
+      "word": "hurt",
+      "pronunciation": "/hɜːrt/",
+      "type": "v.",
+      "definition": "受伤"
+    },
+    {
+      "word": "police",
+      "pronunciation": "/pəˈliːs/",
+      "type": "n.",
+      "definition": "警察"
+    },
+    {
+      "word": "looking",
+      "pronunciation": "/ˈlʊkɪŋ/",
+      "type": "v.",
+      "definition": "寻找"
+    },
+    {
+      "word": "for",
+      "pronunciation": "/fɔː/",
+      "type": "prep.",
+      "definition": "为了，寻找"
+    },
+    {
+      "word": "two",
+      "pronunciation": "/tuː/",
+      "type": "num.",
+      "definition": "二个"
+    },
+    {
+      "word": "men",
+      "pronunciation": "/men/",
+      "type": "n.",
+      "definition": "男人(复数)"
+    },
+    {
+      "word": "who",
+      "pronunciation": "/huː/",
+      "type": "pron.",
+      "definition": "谁(引导定语从句)"
+    },
+    {
+      "word": "ran",
+      "pronunciation": "/ræn/",
+      "type": "v.",
+      "definition": "跑(run的过去式)"
+    },
+    {
+      "word": "away",
+      "pronunciation": "/əˈweɪ/",
+      "type": "adv.",
+      "definition": "远离，离开"
+    },
+    {
+      "word": "they",
+      "pronunciation": "/ðeɪ/",
+      "type": "pron.",
+      "definition": "他们"
+    },
+    {
+      "word": "think",
+      "pronunciation": "/θɪŋk/",
+      "type": "v.",
+      "definition": "认为"
+    },
+    {
+      "word": "were",
+      "pronunciation": "/wɜːr/",
+      "type": "v.",
+      "definition": "be动词的过去式(复数)"
+    },
+    {
+      "word": "when",
+      "pronunciation": "/wen/",
+      "type": "conj.",
+      "definition": "当...时(引导时间状语从句)"
+    },
+    {
+      "word": "it",
+      "pronunciation": "/ɪt/",
+      "type": "pron.",
+      "definition": "它(指代前文提到的事物)"
+    },
+    {
+      "word": "hit",
+      "pronunciation": "/hɪt/",
+      "type": "v.",
+      "definition": "撞击"
+    },
+    {
+      "word": "the",
+      "pronunciation": "/ðiː/",
+      "type": "det.",
+      "definition": "这个，那个，这些，那些(指定冠词)"
+    },
+    {
+      "word": "bus",
+      "pronunciation": "/bʌs/",
+      "type": "n.",
+      "definition": "公共汽车(复数形式)"
+    }
+  ]
+}

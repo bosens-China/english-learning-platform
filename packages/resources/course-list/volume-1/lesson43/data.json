@@ -1,0 +1,54 @@
+{
+  "lesson": "Lesson 43",
+  "title": "He can't have been ... He must have been ...",
+  "introduction": [
+    "Listen to the tape then answer this question.What does the man say about his friend?,",
+    "听录音，然后回答问题。这位男士对他的朋友说了什么？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "He can't have been ...",
+      "translation": "他那时不可能已经......"
+    },
+    {
+      "text": "He must have been ..."
+      "translation": "他那时肯定是......"
+    }
+  ],
+  "notes": [
+    {
+      "title": "can't have been",
+      "describe": "用于表示说话人对过去发生的事情持有否定推测，意为“不可能已经”。"
+    },
+    {
+      "title": "must have been",
+      "describe": "用于表示说话人对过去发生的事情持有肯定推测，意为“肯定是”。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "can't",
+      "pronunciation": "/kænt/",
+      "type": "v.",
+      "definition": "不能"
+    },
+    {
+      "word": "have",
+      "pronunciation": "/hæv/",
+      "type": "v.",
+      "definition": "有，具有"
+    },
+    {
+      "word": "been",
+      "pronunciation": "/biːn/",
+      "type": "v.",
+      "definition": "be动词的过去分词"
+    },
+    {
+      "word": "must",
+      "pronunciation": "/mʌst/",
+      "type": "v.",
+      "definition": "必须"
+    }
+  ]
+}

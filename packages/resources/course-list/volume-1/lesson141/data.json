@@ -1,0 +1,62 @@
+{
+  "lesson": "Lesson 141",
+  "title": "Sally's first train ride 萨莉第一次乘火车旅行",
+  "introduction": [
+    "Listen to the tape then answer this question. Where does the writer live?",
+    "听录音，然后回答问题。作者住在哪里？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Someone invited Sally to a party.",
+      "translation": "有人邀请了萨莉出席一个聚会。"
+    },
+    {
+      "text": "Sally was invited to a party.",
+      "translation": "萨莉应邀出席一个聚会。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Sally's first train ride",
+      "describe": "本课讲述了萨莉第一次坐火车的经历。故事描绘了她对这次新体验的感受和观察。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "invite",
+      "pronunciation": "/ɪn'vaɪt/",
+      "type": "v.",
+      "definition": "邀请"
+    },
+    {
+      "word": "party",
+      "pronunciation": "/'pɑːrti/",
+      "type": "n.",
+      "definition": "聚会"
+    },
+    {
+      "word": "Sally",
+      "pronunciation": "/'sæli/",
+      "type": "n.",
+      "definition": "人名，萨莉"
+    },
+    {
+      "word": "first",
+      "pronunciation": "/fɜːst/",
+      "type": "adj.",
+      "definition": "第一的，最初的"
+    },
+    {
+      "word": "train",
+      "pronunciation": "/treɪn/",
+      "type": "n.",
+      "definition": "火车"
+    },
+    {
+      "word": "ride",
+      "pronunciation": "/raɪd/",
+      "type": "n.",
+      "definition": "乘坐，旅行"
+    }
+  ]
+}

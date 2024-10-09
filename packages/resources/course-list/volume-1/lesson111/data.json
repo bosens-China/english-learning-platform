@@ -1,0 +1,48 @@
+{
+  "lesson": "Lesson 111",
+  "title": "The most expensive model 最昂贵的型号",
+  "introduction": [
+    "Listen to the tape and answer the questions. What is the most expensive model?,",
+    "听录音并回答问题。什么是最昂贵的型号？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "The most expensive model",
+      "translation": "最昂贵的型号"
+    },
+    {
+      "text": "-Which do you want?-你们要哪一种？",
+      "translation": "-你们要哪一种？-"
+    },
+    {
+      "text": "-We want the cheapest one.-我们想要最便宜的。",
+      "translation": "-我们想要最便宜的。-"}
+  ],
+  "notes": [],
+  "vocabulary": [
+    {
+      "word": "model",
+      "pronunciation": "/'mɒdl/",
+      "type": "n.",
+      "definition": "模型，设计型"
+    },
+    {
+      "word": "want",
+      "pronunciation": "/wɒnt/",
+      "type": "v.",
+      "definition": "想要"
+    },
+    {
+      "word": "cheapest",
+      "pronunciation": "/'tʃiːpɪst/",
+      "type": "adj.",
+      "definition": "最便宜的"
+    },
+    {
+      "word": "one",
+      "pronunciation": "/wʌn/",
+      "type": "pron.",
+      "definition": "代替前文提到的可数名词(单数)"
+    }
+  ]
+}

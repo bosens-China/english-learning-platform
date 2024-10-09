@@ -1,0 +1,66 @@
+{
+  "lesson": "Lesson 139",
+  "title": "Is that you,John?",
+  "introduction": [
+    "Listen to the tape then answer this question. What did he say? What did he tell you?",
+    "听录音，然后回答问题。他说什么了？他告诉你什么了？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Is that you,John?",
+      "translation": "是你吗，约翰？"
+    },
+    {
+      "text": "Yes,it is.",
+      "translation": "是的，是我。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Is that you,John?",
+      "describe": "这是一种常见的询问方式，用于确认对方的身份。在对话中，萨莉通过问这个问题来确认她看到的是不是约翰。"
+    },
+    {
+      "title": "Yes, it is.",
+      "describe": "这是一种肯定的回答方式，用于确认自己的身份。在这个对话中，约翰用这种方式回答了萨莉的问题。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "that",
+      "pronunciation": "/ðæt/",
+      "type": "pron.",
+      "definition": "那"
+    },
+    {
+      "word": "you",
+      "pronunciation": "/juː/",
+      "type": "pron.",
+      "definition": "你"
+    },
+    {
+      "word": "yes",
+      "pronunciation": "/jɛs/",
+      "type": "adv.",
+      "definition": "是的"
+    },
+    {
+      "word": "it",
+      "pronunciation": "/ɪt/",
+      "type": "pron.",
+      "definition": "它"
+    },
+    {
+      "word": "is",
+      "pronunciation": "/ɪz/",
+      "type": "v.",
+      "definition": "be动词现在时第三人称单数"
+    },
+    {
+      "word": "John",
+      "pronunciation": "/dʒɒn/",
+      "type": "n.",
+      "definition": "人名，约翰"
+    }
+  ]
+}

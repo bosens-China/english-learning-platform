@@ -1,0 +1,86 @@
+{
+  "lesson": "Lesson 129",
+  "title": "Seventy miles an hour 时速70英里",
+  "introduction": [
+    "Listen to the tape and answer this question.What's the speed limit?,",
+    "听录音并回答问题。速度限制是多少？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Don't be so sure!",
+      "translation": "别那么肯定！"
+    },
+    {
+      "text": "He can't be... It's against the law.",
+      "translation": "他不可能……那是违法的。"
+    },
+    {
+      "text": "We mustn't go through the red light.",
+      "translation": "我们不能闯红灯。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Don't be so sure!",
+      "describe": "这是一种表示怀疑的说法，用来提醒对方不要过于自信或确定某事。"
+    },
+    {
+      "title": "It's against the law.",
+      "describe": "这个短语意味着某事是非法的，违反了法律规定。"
+    },
+    {
+      "title": "We mustn't go through the red light.",
+      "describe": "这句话说明了遵守交通规则的重要性，红灯停是基本的交通法规之一。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "sure",
+      "pronunciation": "/ʃʊər/",
+      "type": "adj.",
+      "definition": "确信的，确定的"
+    },
+    {
+      "word": "against",
+      "pronunciation": "/ə'genst/",
+      "type": "prep.",
+      "definition": "违反，对立"
+    },
+    {
+      "word": "law",
+      "pronunciation": "/lɔː/",
+      "type": "n.",
+      "definition": "法律"
+    },
+    {
+      "word": "mustn't",
+      "pronunciation": "/'mʌsnt/",
+      "type": "v.",
+      "definition": "不允许，禁止"
+    },
+    {
+      "word": "go",
+      "pronunciation": "/gəʊ/",
+      "type": "v.",
+      "definition": "去，进行"
+    },
+    {
+      "word": "through",
+      "pronunciation": "/θruː/",
+      "type": "prep.",
+      "definition": "通过，穿过"
+    },
+    {
+      "word": "red",
+      "pronunciation": "/red/",
+      "type": "adj.",
+      "definition": "红色的"
+    },
+    {
+      "word": "light",
+      "pronunciation": "/laɪt/",
+      "type": "n.",
+      "definition": "灯，光"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lesson": "Lesson 119",
+  "title": "A true story",
+  "introduction": [
+    "Listen to the tape then answer this question. What do you think the story is about?",
+    "听录音，然后回答问题。你认为这个故事是关于什么的？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "There was once a little girl who lived in a village. She had a good friend called Lisa. One day, Lisa said to the little girl, 'If I give you three wishes, what will you wish for?' The little girl thought for a moment and said, 'First, I wish that my mother would recover from her illness. Second, I wish that my father would find a good job. And third, I wish that my family would be happy forever.'"
+    },
+    {
+      "text": "Lisa was surprised. She said, 'You are very kind. Most people would ask for wealth or beauty. But you are different. You care about your family more than yourself.' The little girl smiled and said, 'I know. But my family's happiness is my happiness.'"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Wishes",
+      "describe": "在这个对话中，小女孩的三个愿望都与家人的幸福有关，这显示了她对家庭的深厚感情和无私的关爱。"
+    },
+    {
+      "title": "Caring about others",
+      "describe": "故事通过小女孩的选择强调了关心他人比追求个人利益更为重要的价值观。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "wish",
+      "pronunciation": "/wɪʃ/",
+      "type": "n.",
+      "definition": "愿望"
+    },
+    {
+      "word": "recover",
+      "pronunciation": "/rɪ'kʌvə/",
+      "type": "v.",
+      "definition": "恢复健康"
+    },
+    {
+      "word": "illness",
+      "pronunciation": "/'ɪlnəs/",
+      "type": "n.",
+      "definition": "疾病"
+    },
+    {
+      "word": "wealth",
+      "pronunciation": "/wɛlθ/",
+      "type": "n.",
+      "definition": "财富"
+    },
+    {
+      "word": "beauty",
+      "pronunciation": "/'bjuːtɪ/",
+      "type": "n.",
+      "definition": "美丽"
+    },
+    {
+      "word": "surprise",
+      "pronunciation": "/sə'praɪz/",
+      "type": "n.",
+      "definition": "惊讶"
+    },
+    {
+      "word": "about",
+      "pronunciation": "/ə'baʊt/",
+      "type": "prep.",
+      "definition": "关于"
+    },
+    {
+      "word": "myself",
+      "pronunciation": "/maɪ'self/",
+      "type": "pron.",
+      "definition": "我自己"
+    },
+    {
+      "word": "happiness",
+      "pronunciation": "/'hæpɪnəs/",
+      "type": "n.",
+      "definition": "幸福"
+    }
+  ]
+}

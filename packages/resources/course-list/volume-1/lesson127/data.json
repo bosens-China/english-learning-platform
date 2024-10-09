@@ -1,0 +1,45 @@
+{
+  "lesson": "Lesson 127",
+  "title": "A famous actress",
+  "introduction": [
+    "Listen to the tape and answer this question. Who dropped in?,",
+    "听录音并回答问题。谁突然来访了？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "A famous actress",
+      "translation": "一位著名的女演员"
+    },
+    {
+      "text": "Dropping in",
+      "translation": "突然来访"
+    }
+  ],
+  "notes": [],
+  "vocabulary": [
+    {
+      "word": "actress",
+      "pronunciation": "/'æktrɪs/",
+      "type": "n.",
+      "definition": "女演员"
+    },
+    {
+      "word": "famous",
+      "pronunciation": "/'feɪməs/",
+      "type": "adj.",
+      "definition": "著名的"
+    },
+    {
+      "word": "drop",
+      "pronunciation": "/drɒp/",
+      "type": "v.",
+      "definition": "下降，落下"
+    },
+    {
+      "word": "in",
+      "pronunciation": "/ɪn/",
+      "type": "adv.",
+      "definition": "进入"
+    }
+  ]
+}

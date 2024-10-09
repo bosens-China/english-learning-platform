@@ -1,0 +1,91 @@
+{
+  "lesson": "Lesson 115",
+  "title": "Knock, knock!",
+  "introduction": [
+    "Listen to the tape and answer this question. Who is making the noise?",
+    "听录音并回答问题。是谁在制造噪音？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Knock, knock!",
+      "translation": "敲门声！"
+    },
+    {
+      "text": "I'm hungry.",
+      "translation": "我饿了。"
+    },
+    {
+      "text": "What's in the fridge?",
+      "translation": "冰箱里有什么？"
+    },
+    {
+      "text": "Is there any chocolate?",
+      "translation": "有巧克力吗？"
+    },
+    {
+      "text": "No, there isn't any chocolate.",
+      "translation": "不，没有巧克力。"
+    },
+    {
+      "text": "There are some tomatoes.",
+      "translation": "有一些西红柿。"
+    }
+  ],
+  "notes": [],
+  "vocabulary": [
+    {
+      "word": "knock",
+      "pronunciation": "/nɒk/",
+      "type": "v.",
+      "definition": "敲"
+    },
+    {
+      "word": "hungry",
+      "pronunciation": "/'hʌŋgrɪ/",
+      "type": "adj.",
+      "definition": "饿的"
+    },
+    {
+      "word": "fridge",
+      "pronunciation": "/frɪdʒ/",
+      "type": "n.",
+      "definition": "冰箱"
+    },
+    {
+      "word": "chocolate",
+      "pronunciation": "/'tʃɒklɪt/",
+      "type": "n.",
+      "definition": "巧克力"
+    },
+    {
+      "word": "tomato",
+      "pronunciation": "/tə'mɑːtəʊ/",
+      "type": "n.",
+      "definition": "西红柿"
+    },
+    {
+      "word": "there is",
+      "pronunciation": "/ðeər ɪz/",
+      "type": "expression",
+      "definition": "有（单数）"
+    },
+    {
+      "word": "there are",
+      "pronunciation": "/ðeər ɑː/",
+      "type": "expression",
+      "definition": "有（复数）"
+    },
+    {
+      "word": "any",
+      "pronunciation": "/'enɪ/",
+      "type": "pron.",
+      "definition": "任何的"
+    },
+    {
+      "word": "some",
+      "pronunciation": "/sʌm/",
+      "type": "pron.",
+      "definition": "一些"
+    }
+  ]
+}

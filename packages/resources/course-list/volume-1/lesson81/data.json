@@ -1,0 +1,50 @@
+{
+  "lesson": "Lesson 81",
+  "title": "Roast beef and potatoes",
+  "introduction": [
+    "Listen to the tape then answer this question. What did the writer have for dinner?",
+    "听录音，然后回答问题。作者晚餐吃了什么？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Roast beef and potatoes",
+      "translation": "烤牛肉和土豆"
+    },
+    {
+      "text": "I had roast beef and potatoes for dinner.",
+      "translation": "我晚餐吃了烤牛肉和土豆。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Roast beef and potatoes",
+      "describe": "这是一种常见的英国传统晚餐，通常在周日享用。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "roast",
+      "pronunciation": "/rəust/",
+      "type": "v.",
+      "definition": "烤"
+    },
+    {
+      "word": "beef",
+      "pronunciation": "/biːf/",
+      "type": "n.",
+      "definition": "牛肉"
+    },
+    {
+      "word": "potato",
+      "pronunciation": "/pə'teɪtəʊ/",
+      "type": "n.",
+      "definition": "土豆"
+    },
+    {
+      "word": "dinner",
+      "pronunciation": "/'dɪnə(r)/",
+      "type": "n.",
+      "definition": "晚餐"
+    }
+  ]
+}

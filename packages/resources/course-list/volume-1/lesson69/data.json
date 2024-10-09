@@ -1,0 +1,92 @@
+{
+  "lesson": "Lesson 69",
+  "title": "Thank you, doctor. 谢谢你，医生。",
+  "introduction": [
+    "Listen to the tape then answer this question. Who is ill?",
+    "听录音，然后回答问题。谁病了？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Thank you, doctor.",
+      "translation": "谢谢你，医生。"
+    },
+    {
+      "text": "Don't ...!",
+      "translation": "别...!"
+    },
+    {
+      "text": "You mustn't ...!",
+      "translation": "你不应该..."
+    },
+    {
+      "text": "Not a baby.",
+      "translation": "不是一个婴儿。"
+    },
+    {
+      "text": "What's the time?",
+      "translation": "几点钟？"
+    },
+    {
+      "text": "The weekend.",
+      "translation": "周末。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Thank you, doctor.",
+      "describe": "表示感谢的常用语，用于对医生的治疗或建议表示感激。"
+    },
+    {
+      "title": "Don't ...!",
+      "describe": "表示禁止或警告，用于告诉某人不要做某事。"
+    },
+    {
+      "title": "You mustn't ...!",
+      "describe": "表示强烈禁止，mustn't 是 must not 的缩写形式，意为“不可以”。"
+    },
+    {
+      "title": "Not a baby.",
+      "describe": "用来纠正别人的错误观念或说法，表明所指的不是婴儿。"
+    },
+    {
+      "title": "What's the time?",
+      "describe": "询问时间的常用句型，相当于“现在几点了？”"
+    },
+    {
+      "title": "The weekend.",
+      "describe": "指星期六和星期日两天时间，通常用于回答关于时间的问题，表明时间是在周末。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "thank",
+      "pronunciation": "/θæŋk/",
+      "type": "v.",
+      "definition": "感谢"
+    },
+    {
+      "word": "doctor",
+      "pronunciation": "/'dɒktə(r)/",
+      "type": "n.",
+      "definition": "医生"
+    },
+    {
+      "word": "baby",
+      "pronunciation": "/'beɪbi/",
+      "type": "n.",
+      "definition": "婴儿"
+    },
+    {
+      "word": "time",
+      "pronunciation": "/taɪm/",
+      "type": "n.",
+      "definition": "时间"
+    },
+    {
+      "word": "weekend",
+      "pronunciation": "/'wiːkend/",
+      "type": "n.",
+      "definition": "周末"
+    }
+  ]
+}

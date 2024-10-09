@@ -1,0 +1,106 @@
+{
+  "lesson": "Lesson 105",
+  "title": "Full of mistakes 错误百出",
+  "introduction": [
+    "Listen to the tape and answer these questions. He says thinks believes knows understands is afraid is sorry is sure that he is... feels.. has(got)... needs.. wants ... can... must. will...",
+    "听录音并回答问题。他说认为相信知道理解害怕抱歉确定他感到...有...需要...想要...能...必须将会..."
+  ],
+  "text_and_translation": [
+    {
+      "text": "I want you/him/her/them to...",
+      "translation": "我要你/他/她/他们..."
+    },
+    {
+      "text": "Tell him/her/them to...",
+      "translation": "告诉他/她/他们..."
+    },
+    {
+      "text": "Give me/him/her/us/them a...",
+      "translation": "给我/他/她/我们/他们一..."
+    },
+    {
+      "text": "Which one?",
+      "translation": "哪一个？"
+    },
+    {
+      "text": "Which ones?",
+      "translation": "哪些？"
+    },
+    {
+      "text": "How many are there?",
+      "translation": "有多少？"
+    },
+    {
+      "text": "How much is it?",
+      "translation": "多少钱？"
+    }
+  ],
+  "notes": [
+    {
+      "title": "want",
+      "describe": "want + 宾语 + to-infinitive 结构表示“想要某人做某事”。例如：I want you to go.（我要你去。）"
+    },
+    {
+      "title": "Tell",
+      "describe": "tell + 宾语 + to-infinitive 结构用来发出指令或信息。例如：Tell him to come here.（告诉他来这里。）"
+    },
+    {
+      "title": "Give",
+      "describe": "give + 双宾语 + 名词，表示“给某人某物”。例如：Give me a book.（给我一本书。）"
+    },
+    {
+      "title": "Which one?",
+      "describe": "用来询问特定范围内的单个选择。"
+    },
+    {
+      "title": "Which ones?",
+      "describe": "用来询问特定范围内的多个选择。"
+    },
+    {
+      "title": "How many are there?",
+      "describe": "用于询问可数事物数量的问句。"
+    },
+    {
+      "title": "How much is it?",
+      "describe": "用于询问不可数事物的数量或价格。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "mistakes",
+      "pronunciation": "/mɪs'teɪkəs/",
+      "type": "n.",
+      "definition": "错误"
+    },
+    {
+      "word": "every",
+      "pronunciation": "/'evrɪ/",
+      "type": "adj.",
+      "definition": "每个"
+    },
+    {
+      "word": "no",
+      "pronunciation": "/nəʊ/",
+      "type": "adj.",
+      "definition": "没有"
+    },
+    {
+      "word": "any",
+      "pronunciation": "/'enɪ/",
+      "type": "pron.",
+      "definition": "任何"
+    },
+    {
+      "word": "some",
+      "pronunciation": "/sʌm/",
+      "type": "pron.",
+      "definition": "一些"
+    },
+    {
+      "word": "licence",
+      "pronunciation": "/'laɪsns/",
+      "type": "n.",
+      "definition": "执照"
+    }
+  ]
+}

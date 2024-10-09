@@ -1,0 +1,94 @@
+{
+  "lesson": "Lesson 65",
+  "title": "Thank you,doctor.谢谢你，医生。",
+  "introduction": [
+    "Listen to the tape then answer this question. What does the woman want to do?",
+    "听录音，然后回答问题。这位女士想要做什么？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Thank you, doctor.",
+      "translation": "谢谢你，医生。"
+    },
+    {
+      "text": "Don't ...!",
+      "translation": "不要……！"
+    },
+    {
+      "text": "You mustn't...!",
+      "translation": "你不应该……！"
+    },
+    {
+      "text": "Not a baby.",
+      "translation": "不是一个婴儿。"
+    },
+    {
+      "text": "What's the time?",
+      "translation": "几点钟？"
+    },
+    {
+      "text": "The weekend.",
+      "translation": "周末。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Thank you, doctor.",
+      "describe": "这句话表明对话中的一方对另一方的感谢，可能因为得到了帮助或治疗。在课文中，女士可能是在接受治疗后感谢医生。"
+    },
+    {
+      "title": "Don't ...!/You mustn't ...!",
+      "describe": "这两种表达都是用来表示禁止或警告对方不要做某事。"
+    },
+    {
+      "title": "Not a baby.",
+      "describe": "这句话是对前面谈话内容的更正或澄清，表明讨论的主题不是一个婴儿。"
+    },
+    {
+      "title": "What's the time?",
+      "describe": "这是一个询问当前时间的常用表达。"
+    },
+    {
+      "title": "The weekend.",
+      "describe": "这个短语指的是一周的最后两天，通常用于描述休息日。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "thank",
+      "pronunciation": "/θæŋk/",
+      "type": "v.",
+      "definition": "感谢"
+    },
+    {
+      "word": "doctor",
+      "pronunciation": "/'dɒktə/",
+      "type": "n.",
+      "definition": "医生"
+    },
+    {
+      "word": "mustn't",
+      "pronunciation": "/'mʌsnt/",
+      "type": "v.",
+      "definition": "不允许"
+    },
+    {
+      "word": "baby",
+      "pronunciation": "/'beɪbi/",
+      "type": "n.",
+      "definition": "婴儿"
+    },
+    {
+      "word": "time",
+      "pronunciation": "/taɪm/",
+      "type": "n.",
+      "definition": "时间"
+    },
+    {
+      "word": "weekend",
+      "pronunciation": "/'wiːkend/",
+      "type": "n.",
+      "definition": "周末"
+    }
+  ]
+}

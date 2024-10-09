@@ -1,0 +1,73 @@
+{
+  "lesson": "Lesson 61",
+  "title": "What's the time? 几点钟？",
+  "introduction": [
+    "Listen to the tape and answer the questions.听录音并回答问题。"
+  ],
+  "text_and_translation": [
+    {
+      "text": "( lst ) ( 3rd ) ( 2nd ) ( 4th ) ( 6th )5th ( 7th ) ( 9th ) ( 8th ) ( 10th ) ( 12th )11th Do you have any...",
+      "translation": "你有……吗？"
+    },
+    {
+      "text": "( 19th ) biscuits ( 25th ) lettuces ( 31st ) chicken ( 14th ) butter ( 20th ) potatoes ( 26th ) bananas ( 32nd ) whisky",
+      "translation": "你有饼干吗？有生菜吗？有鸡肉吗？有黄油吗？有土豆吗？有香蕉吗？有威士忌酒吗？"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Notes on the text",
+      "describe": "这一课的重点是询问和回答有关时间的问题，同时也涉及到了日常购物场景中询问商品是否有货的情景。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "time",
+      "pronunciation": "/taɪm/",
+      "type": "n.",
+      "definition": "时间"
+    },
+    {
+      "word": "biscuits",
+      "pronunciation": "/'bɪskɪts/",
+      "type": "n.",
+      "definition": "饼干"
+    },
+    {
+      "word": "lettuces",
+      "pronunciation": "/'letɪsɪz/",
+      "type": "n.",
+      "definition": "生菜"
+    },
+    {
+      "word": "chicken",
+      "pronunciation": "/'tʃɪkɪn/",
+      "type": "n.",
+      "definition": "鸡肉"
+    },
+    {
+      "word": "butter",
+      "pronunciation": "/'bʌtə/",
+      "type": "n.",
+      "definition": "黄油"
+    },
+    {
+      "word": "potatoes",
+      "pronunciation": "/pə'teɪtoʊz/",
+      "type": "n.",
+      "definition": "土豆"
+    },
+    {
+      "word": "bananas",
+      "pronunciation": "/bə'nænəz/",
+      "type": "n.",
+      "definition": "香蕉"
+    },
+    {
+      "word": "whisky",
+      "pronunciation": "/'hwɪski/",
+      "type": "n.",
+      "definition": "威士忌酒"
+    }
+  ]
+}

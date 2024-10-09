@@ -1,0 +1,134 @@
+{
+  "lesson": "Lesson 67",
+  "title": "Not a baby",
+  "introduction": [
+    "Listen to the tape then answer this question. What's the time?,",
+    "听录音，然后回答问题。几点钟？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Where's Sally?",
+      "translation": "萨莉在哪甲？"
+    },
+    {
+      "text": "What's he/she/it doing?",
+      "translation": "他/她/它正在做什么？"
+    },
+    {
+      "text": "A fine day",
+      "translation": "晴天"
+    },
+    {
+      "text": "What are they doing?",
+      "translation": "他们在做什么？"
+    },
+    {
+      "text": "Our village",
+      "translation": "我们的村庄"
+    },
+    {
+      "text": "Where ..? Which...?",
+      "translation": "……在哪里？ ……在哪里？"
+    },
+    {
+      "text": "Making a bookcase",
+      "translation": "做书架"
+    },
+    {
+      "text": "What are you going to do?",
+      "translation": "你准备做什么？"
+    },
+    {
+      "text": "What are you doing now?",
+      "translation": "你现在正在做什么？"
+    },
+    {
+      "text": "Don't drop it!",
+      "translation": "别摔了！"
+    },
+    {
+      "text": "Thank you,doctor.",
+      "translation": "谢谢你，医生。"
+    },
+    {
+      "text": "You mustn't...",
+      "translation": "你不应该……！"
+    },
+    {
+      "text": "It's wrong to...",
+      "translation": "……是错误的。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Excuse me.",
+      "describe": "这个短语常用于与陌生人搭话，打断别人的说话或从别人身边挤过。在课文中，男士为了吸引女士的注意力而用了这个表示客套的短语。"
+    },
+    {
+      "title": "Pardon?",
+      "describe": "全句为I beg your pardon.意思是请求对方把刚才讲过的话重复一遍。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "excuse",
+      "pronunciation": "/ɪk'skjuːz/",
+      "type": "v.",
+      "definition": "原谅"
+    },
+    {
+      "word": "handbag",
+      "pronunciation": "/'hændbæg/",
+      "type": "n.",
+      "definition": "(女用)手提包"
+    },
+    {
+      "word": "me",
+      "pronunciation": "/miː/",
+      "type": "pron.",
+      "definition": "我(宾格)"
+    },
+    {
+      "word": "pardon",
+      "pronunciation": "/'pɑːdn/",
+      "type": "int.",
+      "definition": "原谅，请再说一遍"
+    },
+    {
+      "word": "yes",
+      "pronunciation": "/jɛs/",
+      "type": "adv.",
+      "definition": "是的"
+    },
+    {
+      "word": "it",
+      "pronunciation": "/ɪt/",
+      "type": "pron.",
+      "definition": "它"
+    },
+    {
+      "word": "is",
+      "pronunciation": "/ɪz/",
+      "type": "v.",
+      "definition": "be动词现在时第三人称单数"
+    },
+    {
+      "word": "thank",
+      "pronunciation": "/θæŋk/",
+      "type": "v.",
+      "definition": "感谢"
+    },
+    {
+      "word": "very much",
+      "pronunciation": "/'veri mʌtʃ/",
+      "type": "adv.",
+      "definition": "非常地"
+    },
+    {
+      "word": "your",
+      "pronunciation": "/jɔː/",
+      "type": "possessive adjective",
+      "definition": "你的，你们的"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "lesson": "Lesson 29",
+  "title": "Come in,Amy.进来，艾米。",
+  "introduction": [
+    "Listen to the tape then answer this question. Whose is it?",
+    "听录音，然后回答问题。这是谁的？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Come in,Amy.",
+      "translation": "进来，艾米。"
+    },
+    {
+      "text": "This is Mary. Mary,this is Amy.",
+      "translation": "这是玛丽。玛丽，这是艾米。"
+    },
+    {
+      "text": "How are you today?",
+      "translation": "你今天好吗？"
+    },
+    {
+      "text": "I'm very well,thank you.And you?",
+      "translation": "我很好，谢谢。你呢？"
+    },
+    {
+      "text": "I'm fine,too.",
+      "translation": "我也很好。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Come in.",
+      "describe": "这个短语用于邀请某人进入房间或建筑内。在此课文中，它用来欢迎艾米进入某个场所。"
+    },
+    {
+      "title": "How are you today?",
+      "describe": "这是一种常见的问候方式，用来询问对方当天的健康或情绪状态。"
+    },
+    {
+      "title": "I'm very well,thank you.",
+      "describe": "这是一种标准的回应方式，用来表达自己状态良好并感谢对方的关心。"
+    },
+    {
+      "title": "And you?",
+      "describe": "在回答完关于自己的问题后，提出相同的问题给另一方，是一种礼貌的互动方式。"
+    },
+    {
+      "title": "I'm fine,too.",
+      "describe": "表示说话者也处于良好的状态，且通过使用'too'表达了与对方相似的情绪状态。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "come",
+      "pronunciation": "/kʌm/",
+      "type": "v.",
+      "definition": "来"
+    },
+    {
+      "word": "in",
+      "pronunciation": "/ɪn/",
+      "type": "adv.",
+      "definition": "进入"
+    },
+    {
+      "word": "Amy",
+      "pronunciation": "/'eɪmi/",
+      "type": "n.",
+      "definition": "人名"
+    },
+    {
+      "word": "Mary",
+      "pronunciation": "/'mɛəri/",
+      "type": "n.",
+      "definition": "人名"
+    },
+    {
+      "word": "how",
+      "pronunciation": "/hau/",
+      "type": "adv.",
+      "definition": "怎样"
+    },
+    {
+      "word": "are",
+      "pronunciation": "/ɑː/",
+      "type": "v.",
+      "definition": "be动词现在时复数"
+    },
+    {
+      "word": "today",
+      "pronunciation": "/tə'deɪ/",
+      "type": "n.",
+      "definition": "今天"
+    },
+    {
+      "word": "well",
+      "pronunciation": "/wɛl/",
+      "type": "adv.",
+      "definition": "好地"
+    },
+    {
+      "word": "fine",
+      "pronunciation": "/faɪn/",
+      "type": "adj.",
+      "definition": "好的"
+    },
+    {
+      "word": "too",
+      "pronunciation": "/tuː/",
+      "type": "adv.",
+      "definition": "也"
+    },
+    {
+      "word": "and",
+      "pronunciation": "/ænd/",
+      "type": "conj.",
+      "definition": "和"
+    },
+    {
+      "word": "you",
+      "pronunciation": "/juː/",
+      "type": "pron.",
+      "definition": "你，你们"
+    }
+  ]
+}
