@@ -4,6 +4,9 @@ const nextConfig = {
     typedRoutes: true,
   },
   output: 'export',
+  basePath: process.env.GITHUB_ACTOR ? '/english-learning-platform/' : undefined,
 };
+
+console.log(process.env);
 
 export default nextConfig;
