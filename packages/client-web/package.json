@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@douyinfe/semi-icons": "^2.67.0",
+    "@douyinfe/semi-icons-lab": "^2.67.0",
     "@douyinfe/semi-ui": "^2.67.0",
     "next": "14.2.15",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "resources": "workspace:*"
   },
   "devDependencies": {
     "@types/react": "^18",

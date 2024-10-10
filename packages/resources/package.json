@@ -1,0 +1,24 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "资源包",
+  "main": "./data.ts",
+  "scripts": {
+    "build": "tsx ./scripts/build.ts",
+    "postinstall": "pnpm run build",
+    "build-watch": "tsx watch ./scripts/build-watch.ts"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/lodash-es": "^4.17.12",
+    "chokidar": "^4.0.1",
+    "fs-extra": "^11.2.0",
+    "glob": "^11.0.0",
+    "tsx": "^4.19.1",
+    "lodash-es": "^4.17.21"
+  },
+  "dependencies": {
+    "seroval": "^1.1.1"
+  }
+}

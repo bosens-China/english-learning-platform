@@ -1,7 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import React from 'react';
-import { Theme } from './theme';
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -15,9 +14,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>
-        <Theme>{children}</Theme>
-      </body>
+      <body theme-mode="dark">{children}</body>
     </html>
   );
 }
+
+export const dynamic = 'error';
