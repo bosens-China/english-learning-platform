@@ -43,7 +43,7 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install dependencies
         run: pnpm install # 或 pnpm install / yarn install / bun install
-      - name: Build with interface-vite
+      - name: Build with Next.js
         run: pnpm -F client-web run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
